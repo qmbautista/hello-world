@@ -1,6 +1,6 @@
 #NMDS plots using the OTU table subsampled to 11587 reads.
 #Input data: shared_subsampled.txt, Env.txt
-
+#Output: "NMDS_bray_1.png", with Bray Curtis Distances; "NMDS_jaccard_1.png", with Jaccard distances
 
 library(ggplot2)
 library(vegan)
